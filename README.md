@@ -15,10 +15,6 @@ It demonstrates skills in **data cleaning, exploratory data analysis (EDA), data
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## 🔍 Key Analysis
 - Sales trends over type of restaurant
 - Top performing restaurants
