@@ -5,6 +5,15 @@ This project analyzes Zomato sales data using Python to uncover insights about c
 It demonstrates skills in **data cleaning, exploratory data analysis (EDA), data visualization, and business insights generation**.
 
 ---
+## Problem Statememt
+- What type of restaurant do the majority of customers order from?
+- How many votes has each type of restaurant received from customers?
+- What are ratings that the majority of restaurants have received?
+- Zomato has observed that most of couple order most of their food online.What is their average spending each order?
+- Which mode (online or offline) has received the Maximum rating?
+- Which type of re received more offline orders,so that Zomato can provide those customers with some good offers?
+
+---
 
 ## 🛠️ Technologies Used
 - Python 3.11
